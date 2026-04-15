@@ -53,5 +53,3 @@ Talent Acquisition Team
 
 # Author
 Vanshika
-
-This project is for academic and demonstration purposes.
